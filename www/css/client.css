@@ -306,7 +306,7 @@ body {
     margin-right: 3px;
     color: white;
     background: transparent;
-    display: inline;
+    display: none;
     border: none;
 }
 .statusMenu p:hover,

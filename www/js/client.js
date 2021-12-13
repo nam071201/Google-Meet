@@ -1194,7 +1194,7 @@ function setupLocalMedia(callback, errorback) {
 } // end [setup_local_stream]
 
 /**
- * Load Local Media Stream obj
+ * tải đối tượng luồng
  * @param {*} stream
  */
 function loadLocalMedia(stream) {

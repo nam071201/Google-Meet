@@ -263,7 +263,8 @@ async function ngrokStart() {
 server.listen(port, null, () => {
     log.debug(
         `%c
-        Khởi Động Server
+        Khởi Động Server - VKU Meeting 
+        Hoàng Xuân Nam and Nguyễn Tuấn Anh
 
 	`,
         'font-family:monospace',
