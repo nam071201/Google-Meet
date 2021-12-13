@@ -10,11 +10,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/nam071201/meet.git"
+        "url": "git+https://github.com/nam071201/Google-Meet.git"
     },
     "author": "Ngoc Cuong",
     "license": "AGPL-3.0",
-    "homepage": "https://github.com/nam071201/meet.git",
+    "homepage": "https://github.com/nam071201/Google-Meet.git",
     "dependencies": {
         "compression": "^1.7.4",
         "cors": "^2.8.5",
